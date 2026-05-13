@@ -24,3 +24,6 @@ print(factorial(2))
 
 print(factorial(4))
 print("hello world")
+
+def soustraire(a,b):
+    return a-b
