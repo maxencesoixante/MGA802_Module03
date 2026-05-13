@@ -24,5 +24,3 @@ print(factorial(2))
 
 print(factorial(4))
 
-
-
