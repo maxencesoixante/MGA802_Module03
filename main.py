@@ -2,6 +2,7 @@
 besoin de la redéfinir dans les autres fonctions'''
 
 print("Salut c'est Ilyass")
+print("Salut c'est Alexandre")
 
 def procedure(a,b):
     global total
