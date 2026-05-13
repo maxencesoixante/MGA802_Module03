@@ -1,6 +1,8 @@
 '''On définit le global direct dans la fonction pas
 besoin de la redéfinir dans les autres fonctions'''
 
+print("Salut c'est Ilyass")
+
 def procedure(a,b):
     global total
     total = a+b
