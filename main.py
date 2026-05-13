@@ -30,6 +30,7 @@ print("hello world")
 def soustraire(a,b):
     return a-b
 
-#ajout de la fonction puissance
-def puissance(a,b):
-    return a ** b
+def fectoriel(n):
+    if n>1
+        return n
+    return n*(n-1)
