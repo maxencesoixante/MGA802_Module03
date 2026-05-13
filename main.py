@@ -29,3 +29,7 @@ print("hello world")
 
 def soustraire(a,b):
     return a-b
+
+#ajout de la fonction puissance
+def puissance(a,b):
+    return a ** b
